@@ -3,6 +3,8 @@ Estudo sobre testes em python usando a lib pytest
 
 Site para estudo => https://docs.pytest.org
 
+Vídeo tutorial incial => https://www.youtube.com/watch?v=eG4oiOE95aM
+
 Do to list 
 
 - continuar os estudos
